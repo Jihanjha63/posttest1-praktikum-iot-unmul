@@ -15,8 +15,8 @@ Membuat rangkaian untuk Mengatur ON OFF Nada Buzzer dan Kecerahan LED
 <b> Deskripsi : </b>
 
 Rangkaian ini ialah dapat menghasilkan output berupa LED dan buzzer yang bisa Nyalakan dan Matikan serta bisa dikontrol kecerahan dan tone/nada melalui push button juga webserver. Berdasarkan ketentuannya, untuk kecerahan LED menggunakan kelipatan 5 dari range 0-250, sedangkan untuk frekuensi suara Buzzer menggunakan kelipatan 5 dengan range 100-2500.
-</br>
 
+<br>
 <b> Pembagian Tugas : </b>
 
 Fathia Nuq Qamarina :
