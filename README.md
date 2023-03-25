@@ -5,7 +5,7 @@
 - <b> 2009106012 Fathia Nuq Qamarina </b>
 - <b> 2009106027 Indah Wulan Lestari </b>
 - <b> 2009106038 Jihan Hafizah Ariyani </b>
-</br>
+
 <br>
 <b> Judul Studi Kasus : </b>
 
@@ -16,6 +16,7 @@ Membuat rangkaian untuk Mengatur ON OFF Nada Buzzer dan Kecerahan LED
 
 Rangkaian ini ialah dapat menghasilkan output berupa LED dan buzzer yang bisa Nyalakan dan Matikan serta bisa dikontrol kecerahan dan tone/nada melalui push button juga webserver. Berdasarkan ketentuannya, untuk kecerahan LED menggunakan kelipatan 5 dari range 0-250, sedangkan untuk frekuensi suara Buzzer menggunakan kelipatan 5 dengan range 100-2500.
 </br>
+
 <b> Pembagian Tugas : </b>
 
 Fathia Nuq Qamarina :
@@ -30,6 +31,7 @@ Jihan Hafizah Ariyani :
 - Membuat rangkaian LED dan Buzzer
 - Mengatur push button untuk menambah dan mengurangi kecerahan LED dan mengatur ON OFF pada LED
 </br>
+
 <b> Komponen yang Digunakan : </b>
 
 - 1 ESP8266
@@ -41,6 +43,7 @@ Jihan Hafizah Ariyani :
 - 1 Resistor
 - 16 Kabel Jumper
 </br>
+
 <b> Board Schematic : </b>
 
 Board Schematic :
