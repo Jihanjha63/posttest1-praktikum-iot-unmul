@@ -1,15 +1,17 @@
 # posttest1-praktikum-iot-unmul
 
 <b> Kelompok 4 IOT A 2020 : </b>
-
+<br>
 - <b> 2009106012 Fathia Nuq Qamarina </b>
 - <b> 2009106027 Indah Wulan Lestari </b>
 - <b> 2009106038 Jihan Hafizah Ariyani </b>
 </br>
+<br>
 <b> Judul Studi Kasus : </b>
 
 Membuat rangkaian untuk Mengatur ON OFF Nada Buzzer dan Kecerahan LED
 </br>
+<br>
 <b> Deskripsi : </b>
 
 Rangkaian ini ialah dapat menghasilkan output berupa LED dan buzzer yang bisa Nyalakan dan Matikan serta bisa dikontrol kecerahan dan tone/nada melalui push button juga webserver. Berdasarkan ketentuannya, untuk kecerahan LED menggunakan kelipatan 5 dari range 0-250, sedangkan untuk frekuensi suara Buzzer menggunakan kelipatan 5 dengan range 100-2500.
