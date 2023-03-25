@@ -2,9 +2,9 @@
 
 Kelompok 4 IOT A 2020 :
 
-<b> 2009106012 Fathia Nuq Qamarina </b>
-<b> 2009106027 Indah Wulan Lestari </b>
-<b> 2009106038 Jihan Hafizah Ariyani </b>
+<b> 2009106012 Fathia Nuq Qamarina </b> </n>
+<b> 2009106027 Indah Wulan Lestari </b> </n>
+<b> 2009106038 Jihan Hafizah Ariyani </b> </n>
 
 
 <b> Judul Studi Kasus : </b>
