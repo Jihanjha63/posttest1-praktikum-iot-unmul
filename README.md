@@ -22,6 +22,7 @@ Rangkaian ini ialah dapat menghasilkan output berupa LED dan buzzer yang bisa Ny
 Fathia Nuq Qamarina :
 - Membuat codingan untuk LED dan Buzzer
 - Membuat rangkaian LED dan Buzzer serta mengatur push button LED dan Buzzer
+<br>
 Indah Wulan Lestari :
 - Membuat rangkaian LED dan Buzzer
 - Mengatur push button untuk menambah dan mengurangi tone/nada Buzzer dan mengatur ON OFF pada Buzzer
