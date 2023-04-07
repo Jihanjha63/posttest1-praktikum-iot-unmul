@@ -37,7 +37,7 @@ Jihan Hafizah Ariyani :
 - Mengatur push button untuk menambah dan mengurangi kecerahan LED dan mengatur ON OFF pada LED
 </br>
 
-<b> Komponen yang Digunakan : </b>
+<b> Komponen yang Di gunakan : </b>
 
 - 1 ESP8266
 - 1 LED
